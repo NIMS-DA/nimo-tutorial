@@ -1,0 +1,5 @@
+temperature,pressure,objective
+-50,0,2
+-50,20000,0
+150,20000,1
+
