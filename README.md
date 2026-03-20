@@ -135,7 +135,7 @@ python main.py
 ![NIMO相図表示画面](./pics/screenshot12.png)
 
 ### （発展）予備実験結果の入力
-既に予備実験の結果がある場合は、実験計画設定画面の左上にあるData SourceのUpload new dataを有効にして、予備実験の結果を入力した以下のようなCSVファイルをアップロードすることができます。CSVの列名はワークフロー設計画面で入力した変数名と一致させる必要があります。
+既に予備実験の結果がある場合は、実験計画設定画面の左上にあるData SourceのUpload new dataを有効にして、予備実験の結果を入力した以下のような[CSVファイル](./data/preliminary_results.csv) をアップロードすることができます。CSVの列名はワークフロー設計画面で入力した変数名と一致させる必要があります。
 ```
 temperature,pressure,objective
 -50,0,2
